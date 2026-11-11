@@ -48,4 +48,4 @@ Visit my portfolio:
 ## Contact
 
 - GitHub: https://github.com/angel-cis
-- LinkedIn: https://www. hi linkedin.com/in/angel-cisneros-736a31305/
+- LinkedIn: https://www.linkedin.com/in/angel-cisneros-736a31305?utm_source=share_via&utm_content=profile&utm_medium=member_ios

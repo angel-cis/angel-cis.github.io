@@ -43,7 +43,7 @@ learn more about my background in computer science.
 
 Visit my portfolio:
 
-[(https://angel-cis.github.io/)](https://angel-cis.github.io/)](https://angel-cis.github.io/)
+[(https://angel-cis.github.io/)](https://angel-cis.github.io/)]
 
 ## Contact
 
